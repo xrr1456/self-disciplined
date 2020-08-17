@@ -1,0 +1,2 @@
+# self-disciplined
+learning notes
