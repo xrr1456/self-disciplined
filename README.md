@@ -1,4 +1,6 @@
 # self-disciplined
+
+
 learning notes :lipstick:
 - MIT 6.004
  1. 英文字幕
@@ -25,3 +27,4 @@ learning notes :lipstick:
 
 **Tip:** 
 Tip: To `preserve your formatting` within a list, make sure to indent non-fenced code blocks by eight spaces.
+
